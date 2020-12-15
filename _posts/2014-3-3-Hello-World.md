@@ -11,3 +11,6 @@ I've been working on a recipe application over the past few weeks. The idea behi
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 
+just wanted to see if all these changes are complete -- Testing testing 
+
+
